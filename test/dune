@@ -1,3 +1,6 @@
 (test
- (name test_fplib)
+ (name test_list)
+ (libraries fplib))
+(test
+ (name test_list_ops)
  (libraries fplib))
