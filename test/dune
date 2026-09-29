@@ -1,6 +1,15 @@
 (test
  (name test_list)
  (libraries fplib))
+
 (test
  (name test_list_ops)
+ (libraries fplib))
+
+(test
+ (name test_option_ops)
+ (libraries fplib))
+
+(test
+ (name test_functor_laws)
  (libraries fplib))

@@ -7,7 +7,7 @@ let () =
         List.of_list [1; 2; 3]
     in
 
-    assert(
+    assert (
         List_ops.replace "x" list
         =
         List.Cons(
@@ -17,3 +17,9 @@ let () =
                 )
             )
         );
+
+    assert (
+        List_ops.void list |> List.to_list
+        =
+        [(); (); ()]
+    )
