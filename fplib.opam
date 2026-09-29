@@ -2,13 +2,13 @@
 opam-version: "2.0"
 synopsis: "A short synopsis"
 description: "A longer description"
-maintainer: ["Maintainer Name <maintainer@example.com>"]
-authors: ["Author Name <author@example.com>"]
+maintainer: ["João Gabriel Fernandes <joaogabrielfer28@gmail.com>"]
+authors: ["João Gabriel Fernandes <joaogabrielfer28@gmail.com>"]
 license: "LICENSE"
 tags: ["add topics" "to describe" "your" "project"]
-homepage: "https://github.com/username/reponame"
+homepage: "https://github.com/joaogabrielfer/fplib"
 doc: "https://url/to/documentation"
-bug-reports: "https://github.com/username/reponame/issues"
+bug-reports: "https://github.com/joaogabrielfer/fplib/issues"
 depends: [
   "dune" {>= "3.24"}
   "ocaml"
@@ -28,5 +28,5 @@ build: [
     "@doc" {with-doc}
   ]
 ]
-dev-repo: "git+https://github.com/username/reponame.git"
+dev-repo: "git+https://github.com/joaogabrielfer/fplib.git"
 x-maintenance-intent: ["(latest)"]
