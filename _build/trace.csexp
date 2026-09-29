@@ -1,0 +1,87 @@
+(6:config4:init19:1790649620597881571(7:version6:3.24.2)(9:build_dir6:_build)(4:argv(4:dune7:runtest))(3:env(45:XDG_STATE_HOME=/home/joaogabriel/.local/state12:TMUX_PANE=%328:XDG_SESSION_DESKTOP=Hyprland18:TERM=tmux-256color22:XDG_SESSION_CLASS=user20:SYSTEMD_EXEC_PID=74053:CSF_TObjMessage=/usr/share/opencascade/resources/TObj51:XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat033:ELECTRON_OZONE_PLATFORM_HINT=auto74:VSSCRIPT_PATH=/usr/lib/python3.14/site-packages/vapoursynth/libvsscript.so547:PATH=/home/joaogabriel/.opam/default/bin:/home/joaogabriel/.cabal/bin:/home/joaogabriel/.ghcup/bin:/home/joaogabriel/.cargo/bin:/home/joaogabriel/.local/bin:/home/joaogabriel/go/bin:/opt/rocm/bin:/home/joaogabriel/.cabal/bin:/home/joaogabriel/.ghcup/bin:/home/joaogabriel/.nix-profile/bin:/nix/var/nix/profiles/default/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/opt/cuda/bin:/var/lib/flatpak/exports/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin:/usr/lib/smlnj/bin:/usr/lib/smlnj/bin68:CSF_XmlOcafResource=/usr/share/opencascade/resources/XmlOcafResource25:QT_QPA_PLATFORMTHEME=gtk343:NOTIFY_SOCKET=/run/user/1000/systemd/notify44:MANPATH=:/home/joaogabriel/.opam/default/man56:CSF_SHMessage=/usr/share/opencascade/resources/SHMessage14:MOTD_SHOWN=pam78:FZF_ALT_C_OPTS=
+        --preview 'eza -la --color=always {} 2>/dev/null'
+    25:OBSIDIAN_VAULT_NAME=notas66:OCAMLTOP_INCLUDE_PATH=/home/joaogabriel/.opam/default/lib/toplevel19:MANPAGER=nvim +Man!41:XDG_CONFIG_HOME=/home/joaogabriel/.config22:HOME=/home/joaogabriel32:MAIL=/var/spool/mail/joaogabriel23:JOURNAL_STREAM=10:1756061:CSF_XCAFDefaults=/usr/share/opencascade/resources/StdResource198:XDG_DATA_DIRS=/home/joaogabriel/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share:/usr/share:/home/joaogabriel/.nix-profile/share:/nix/var/nix/profiles/default/share19:CUDA_PATH=/opt/cuda53:CSF_OCCTResourcePath=/usr/share/opencascade/resources44:XDG_DATA_HOME=/home/joaogabriel/.local/share7:SHLVL=124:LIBVA_DRIVER_NAME=nvidia46:INVOCATION_ID=279e9a5a1da44a63932ea4d12fdbf90635:TMUX=/tmp/tmux-1000/default,19628,261:CSF_ShadersDirectory=/usr/share/opencascade/resources/Shaders14:MANAGERPID=57027:QT_QPA_PLATFORM=wayland;xcb10:XDG_VTNR=112:CASROOT=/usr49:DEBUGINFOD_URLS=https://debuginfod.archlinux.org 19:ROCM_PATH=/opt/rocm12:MMGT_CLEAR=163:CSF_STEPDefaults=/usr/share/opencascade/resources/XSTEPResource23:WINDOWID=9437241778232063:CSF_PluginDefaults=/usr/share/opencascade/resources/StdResource22:CSF_EXCEPTION_PROMPT=164:OCAML_TOPLEVEL_PATH=/home/joaogabriel/.opam/default/lib/toplevel50:OPAM_SWITCH_PREFIX=/home/joaogabriel/.opam/default28:XDG_CURRENT_DESKTOP=Hyprland24:XDG_CONFIG_DIRS=/etc/xdg85:FZF_DEFAULT_OPTS=
+        --height 40%
+        --layout=reverse
+        --border
+    73:NIX_PROFILES=/nix/var/nix/profiles/default /home/joaogabriel/.nix-profile11:EDITOR=nvim37:HYPRLAND_CMD=Hyprland --watchdog-fd 4132:FZF_CTRL_T_OPTS=
+        --preview 'bat --style=numbers --color=always {} 2>/dev/null || eza -la --color=always {} 2>/dev/null'
+    70:DRAWDEFAULT=/usr/share/opencascade/resources/DrawResources/DrawDefault65:CSF_StandardDefaults=/usr/share/opencascade/resources/StdResource90:HYPRLAND_INSTANCE_SIGNATURE=efb50993780079460b0cbed1363e2166a2de1d9f_1790602270_135341535729:_JAVA_AWT_WM_NONREPARENTING=153:DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus25:XDG_MENU_PREFIX=hyprland-57:PWD=/home/joaogabriel/personal/programming/projects/fplib86:OPAM_LAST_ENV=/home/joaogabriel/.opam/.last-env/env-365000489d41a3e242202b44be74bab7-016:XDG_SESSION_ID=129:DESKTOP_SESSION=hyprland-uwsm69:CSF_StandardLiteDefaults=/usr/share/opencascade/resources/StdResource24:XDG_SESSION_TYPE=wayland25:WLR_NO_HARDWARE_CURSORS=119:COLORTERM=truecolor32:__GLX_VENDOR_LIBRARY_NAME=nvidia17:TERM_PROGRAM=tmux29:QT_QPA_PLATFORMTHEME_QT6=gtk330:XDG_RUNTIME_DIR=/run/user/1000123:UWSM_FINALIZE_VARNAMES=HYPRLAND_INSTANCE_SIGNATURE HYPRLAND_CMD HYPRCURSOR_THEME HYPRCURSOR_SIZE XCURSOR_SIZE XCURSOR_THEME47:OBSIDIAN_VAULT=/home/joaogabriel/personal/notas18:HYPRCURSOR_SIZE=2415:CSF_LANGUAGE=us10:DISPLAY=:115:XCURSOR_SIZE=2416:USER=joaogabriel19:LOGNAME=joaogabriel22:GBM_BACKEND=nvidia-drm147:MEMORY_PRESSURE_WATCH=/sys/fs/cgroup/user.slice/user-1000.slice/user@1000.service/session.slice/wayland-wm@hyprland.desktop.service/memory.pressure64:TMUX_PLUGIN_MANAGER_PATH=/home/joaogabriel/.config/tmux/plugins/56:CSF_XSMessage=/usr/share/opencascade/resources/XSMessage25:TERM_PROGRAM_VERSION=3.7c51:HYPRSHOT_DIR=/home/joaogabriel/pictures/screenshots20:MANAGERPIDFDID=2463563:HL_INITIAL_WORKSPACE_TOKEN=48b696e1-7de3-49e3-b83a-956830b0176125:WAYLAND_DISPLAY=wayland-146:UWSM_WAIT_VARNAMES=HYPRLAND_INSTANCE_SIGNATURE20:MOZ_ENABLE_WAYLAND=139:XDG_CACHE_HOME=/home/joaogabriel/.cache23:NVCC_CCBIN=/usr/bin/g++52:NIX_SSL_CERT_FILE=/etc/ssl/certs/ca-certificates.crt14:XDG_SEAT=seat061:CSF_TObjDefaults=/usr/share/opencascade/resources/StdResource55:DRAWHOME=/usr/share/opencascade/resources/DrawResources16:LANG=pt_BR.UTF-867:CSF_MDTVTexturesDirectory=/usr/share/opencascade/resources/Textures63:CSF_IGESDefaults=/usr/share/opencascade/resources/XSTEPResource83:CSF_MIGRATION_TYPES=/usr/share/opencascade/resources/StdResource/MigrationSheet.txt27:__ETC_PROFILE_NIX_SOURCED=125:SMLNJ_HOME=/usr/lib/smlnj19:XDG_BACKEND=wayland50:MEMORY_PRESSURE_WRITE=c29tZSAyMDAwMDAgMjAwMDAwMAA=57:XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session069:CSF_DrawPluginDefaults=/usr/share/opencascade/resources/DrawResources15:SHELL=/bin/fish19:FZF_CTRL_T_COMMAND=))(4:root53:/home/joaogabriel/personal/programming/projects/fplib)(3:pid6:302688)(11:initial_cwd53:/home/joaogabriel/personal/programming/projects/fplib)(5:start19:1790649620595596984))(3:log4:info19:1790649620597905964(7:message10:ocamlparam)(10:OCAMLPARAM5:unset))(6:thread12:spawn_thread19:1790649620597933370(4:name7:console))(3:log4:info19:1790649620597987216(7:message20:Shared cache enabled)(13:cache_enabled25:Enabled_except_user_rules))(3:log4:info19:1790649620597990847(7:message21:Shared cache location)(8:root_dir32:/home/joaogabriel/.cache/dune/db))(3:log4:info19:1790649620597999515(7:message14:Workspace root)(4:root53:/home/joaogabriel/personal/programming/projects/fplib))(3:log4:info19:1790649620598590827(7:message25:Auto-detected concurrency)(11:concurrency2:12))(6:thread12:spawn_thread19:1790649620598599010(4:name14:signal-watcher))(5:build11:build-start19:1790649620598656711(6:run_id1:0)(7:restart5:false)(6:rusage((13:user_cpu_time7:2258000)(15:system_cpu_time7:5602000)(6:maxrss5:27056)(6:minflt4:2063)(6:majflt1:0)(7:inblock1:0)(7:oublock2:24)(5:nvcsw2:10)(6:nivcsw1:1))))(7:process15:signal_received19:1790649620598709106(6:signal4:CHLD))(10:persistent2:db(19:17906496205986947135:76726)(4:path17:_build/.digest-db)(6:module9:DIGEST-DB)(9:operation4:load))(3:log4:info19:1790649620598998108(7:message12:Dune context)(7:context((4:name7:default)(4:kind7:default)(7:profile3:Dev)(6:merlin4:true)(14:fdo_target_exe())(9:build_dir(12:In_build_dir7:default))(15:instrument_with()))))(5:rules9:Dune load(19:17906496205990106205:65591)(3:dir1:.))(7:process5:start19:1790649620600385769(12:process_args(7:-config))(3:pid6:302693)(10:categories())(6:queued3:831)(4:prog46:/home/joaogabriel/.opam/default/bin/ocamlc.opt)(3:dir1:.))(7:process15:signal_received19:1790649620603660166(6:signal4:CHLD))(7:process6:finish(19:17906496206003857697:3314379)(12:process_args(7:-config))(3:pid6:302693)(10:categories())(4:prog46:/home/joaogabriel/.opam/default/bin/ocamlc.opt)(3:dir1:.)(4:exit1:0)(6:rusage((13:user_cpu_time7:2115000)(15:system_cpu_time7:1049000)(6:maxrss5:27824)(6:minflt4:1175)(6:majflt1:0)(7:inblock1:0)(7:oublock1:0)(5:nvcsw1:1)(6:nivcsw1:1))))(10:persistent2:db(19:17906496206039187155:29931)(4:path10:_build/.db)(6:module14:INCREMENTAL-DB)(9:operation4:load))(7:process5:start19:1790649620605935825(12:process_args(10:--no-pager4:diff10:--no-index14:--color=always2:-u25:_build/default/fplib.opam35:_build/default/fplib.opam.generated))(3:pid6:302694)(10:categories(4:diff))(6:queued3:462)(4:prog12:/usr/bin/git)(3:dir1:.))(7:process15:signal_received19:1790649620606802527(6:signal4:CHLD))(7:process6:finish(19:17906496206059358256:891930)(12:process_args(10:--no-pager4:diff10:--no-index14:--color=always2:-u25:_build/default/fplib.opam35:_build/default/fplib.opam.generated))(3:pid6:302694)(10:categories(4:diff))(4:prog12:/usr/bin/git)(3:dir1:.)(4:exit1:1)(5:error18:exited with code 1)(6:stdout1332:[1mdiff --git a/_build/default/fplib.opam b/_build/default/fplib.opam.generated[m
+[1mindex fc0321e..bb2fc18 100644[m
+[1m--- a/_build/default/fplib.opam[m
+[1m+++ b/_build/default/fplib.opam.generated[m
+[36m@@ -2,13 +2,13 @@[m
+ opam-version: "2.0"[m
+ synopsis: "A short synopsis"[m
+ description: "A longer description"[m
+[31m-maintainer: ["Maintainer Name <maintainer@example.com>"][m
+[31m-authors: ["Author Name <author@example.com>"][m
+[32m+[m[32mmaintainer: ["João Gabriel Fernandes <joaogabrielfer28@gmail.com>"][m
+[32m+[m[32mauthors: ["João Gabriel Fernandes <joaogabrielfer28@gmail.com>"][m
+ license: "LICENSE"[m
+ tags: ["add topics" "to describe" "your" "project"][m
+[31m-homepage: "https://github.com/username/reponame"[m
+[32m+[m[32mhomepage: "https://github.com/joaogabrielfer/fplib"[m
+ doc: "https://url/to/documentation"[m
+[31m-bug-reports: "https://github.com/username/reponame/issues"[m
+[32m+[m[32mbug-reports: "https://github.com/joaogabrielfer/fplib/issues"[m
+ depends: [[m
+   "dune" {>= "3.24"}[m
+   "ocaml"[m
+[36m@@ -28,5 +28,5 @@[m [mbuild: [[m
+     "@doc" {with-doc}[m
+   ][m
+ ][m
+[31m-dev-repo: "git+https://github.com/username/reponame.git"[m
+[32m+[m[32mdev-repo: "git+https://github.com/joaogabrielfer/fplib.git"[m
+ x-maintenance-intent: ["(latest)"][m
+)(6:rusage((13:user_cpu_time1:0)(15:system_cpu_time6:778000)(6:maxrss5:27952)(6:minflt3:173)(6:majflt1:0)(7:inblock1:0)(7:oublock1:0)(5:nvcsw1:1)(6:nivcsw1:0))))(7:promote7:promote19:1790649620606870728(3:src35:_build/default/fplib.opam.generated)(3:dst10:fplib.opam)(3:how6:staged))(11:diagnostics4:user19:1790649620606950986(3:exn1166:File "fplib.opam", line 1, characters 0-0:
+diff --git a/_build/default/fplib.opam b/_build/default/fplib.opam.generated
+index fc0321e..bb2fc18 100644
+--- a/_build/default/fplib.opam
++++ b/_build/default/fplib.opam.generated
+@@ -2,13 +2,13 @@
+ opam-version: "2.0"
+ synopsis: "A short synopsis"
+ description: "A longer description"
+-maintainer: ["Maintainer Name <maintainer@example.com>"]
+-authors: ["Author Name <author@example.com>"]
++maintainer: ["João Gabriel Fernandes <joaogabrielfer28@gmail.com>"]
++authors: ["João Gabriel Fernandes <joaogabrielfer28@gmail.com>"]
+ license: "LICENSE"
+ tags: ["add topics" "to describe" "your" "project"]
+-homepage: "https://github.com/username/reponame"
++homepage: "https://github.com/joaogabrielfer/fplib"
+ doc: "https://url/to/documentation"
+-bug-reports: "https://github.com/username/reponame/issues"
++bug-reports: "https://github.com/joaogabrielfer/fplib/issues"
+ depends: [
+   "dune" {>= "3.24"}
+   "ocaml"
+@@ -28,5 +28,5 @@ build: [
+     "@doc" {with-doc}
+   ]
+ ]
+-dev-repo: "git+https://github.com/username/reponame.git"
++dev-repo: "git+https://github.com/joaogabrielfer/fplib.git"
+ x-maintenance-intent: ["(latest)"]
+)(3:loc12:fplib.opam:1)(4:memo((14:execute-action((6:digest(6:digest32:81ced013e57d6fd49f4e3db2a79a9dcb))(3:loc((9:pos_fname10:fplib.opam)(5:start((8:pos_lnum1:1)(7:pos_bol1:0)(8:pos_cnum1:0)))(4:stop((8:pos_lnum1:1)(7:pos_bol1:0)(8:pos_cnum1:0)))))))(9:<unnamed>())(11:build-alias((3:dir(12:In_build_dir7:default))(4:name4:opam)))(9:<unnamed>())(11:build-alias((3:dir(12:In_build_dir7:default))(4:name7:runtest)))(8:toplevel())))(9:backtrace1983:Raised at Dune_engine__Process.Handle_exit_status.fail in file "dune_engine__Process.ml", lines 566-574, characters 4-24
+Called from Dune_engine__Process.run_internal.(fun) in file "dune_engine__Process.ml", lines 1121-1130, characters 10-66
+Called from Fiber__Core.O.(>>|).(fun) in file "fiber__Core.ml", line 325, characters 36-41
+Called from Fiber__Scheduler.exec in file "fiber__Scheduler.ml", line 77, characters 8-11
+Re-raised at Stdune__Exn.raise_with_backtrace in file "stdune__Exn.ml" (inlined), line 39, characters 27-56
+Called from Stdune__Exn_with_backtrace.reraise in file "stdune__Exn_with_backtrace.ml", line 21, characters 33-71
+Called from Fiber__Scheduler.exec in file "fiber__Scheduler.ml", line 77, characters 8-11
+Re-raised at Stdune__Exn.raise_with_backtrace in file "stdune__Exn.ml" (inlined), line 39, characters 27-56
+Called from Stdune__Exn_with_backtrace.reraise in file "stdune__Exn_with_backtrace.ml", line 21, characters 33-71
+Called from Fiber__Scheduler.exec in file "fiber__Scheduler.ml", line 77, characters 8-11
+Re-raised at Stdune__Exn.raise_with_backtrace in file "stdune__Exn.ml" (inlined), line 39, characters 27-56
+Called from Stdune__Exn_with_backtrace.reraise in file "stdune__Exn_with_backtrace.ml", line 21, characters 33-71
+Called from Fiber__Scheduler.exec in file "fiber__Scheduler.ml", line 77, characters 8-11
+Re-raised at Stdune__Exn.raise_with_backtrace in file "stdune__Exn.ml" (inlined), line 39, characters 27-56
+Called from Stdune__Exn_with_backtrace.reraise in file "stdune__Exn_with_backtrace.ml", line 21, characters 33-71
+Called from Fiber__Scheduler.exec in file "fiber__Scheduler.ml", line 77, characters 8-11
+Re-raised at Stdune__Exn.raise_with_backtrace in file "stdune__Exn.ml" (inlined), line 39, characters 27-56
+Called from Stdune__Exn_with_backtrace.reraise in file "stdune__Exn_with_backtrace.ml", line 21, characters 33-71
+Called from Fiber__Scheduler.exec in file "fiber__Scheduler.ml", line 77, characters 8-11
+))(10:persistent2:db(19:17906496206089950375:55383)(4:path18:_build/.to-promote)(6:module10:TO-PROMOTE)(9:operation4:save))(5:build12:build-finish(19:17906496205986567118:10399317)(6:run_id1:0)(7:outcome7:failure)(6:rusage((13:user_cpu_time7:9479000)(15:system_cpu_time7:5602000)(6:maxrss5:28336)(6:minflt4:2401)(6:majflt1:0)(7:inblock1:0)(7:oublock2:64)(5:nvcsw2:23)(6:nivcsw1:2))))(7:process15:signal_received19:1790649620609138684(6:signal4:USR1))(10:persistent2:db(19:17906496206149446156:102122)(4:path10:_build/.db)(6:module14:INCREMENTAL-DB)(9:operation4:save))(6:config4:exit19:1790649620615054557(2:gc((10:stack_size2:48)(10:heap_words6:394962)(14:top_heap_words6:394962)(11:minor_words8:1048565.)(11:major_words7:323842.)(14:promoted_words7:290965.)(11:compactions1:0)(17:major_collections1:2)(17:minor_collections1:5)))(2:io((10:files_read((5:count1:9)(4:time5:77342)(5:bytes4:3543)))(13:files_written((5:count1:1)(4:time1:0)(5:bytes1:7)))(16:directories_read((5:count1:1)(4:time1:0)))))(6:digest((5:files((5:count1:0)(4:time1:0)(5:bytes1:0)))(6:values((5:count1:3)(4:time4:5262)(5:bytes4:3965)))))(6:rusage((13:user_cpu_time7:9884000)(15:system_cpu_time7:5602000)(6:maxrss5:28336)(6:minflt4:2408)(6:majflt1:0)(7:inblock1:0)(7:oublock2:88)(5:nvcsw2:25)(6:nivcsw1:2))))

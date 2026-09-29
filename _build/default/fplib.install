@@ -1,0 +1,11 @@
+lib: [
+  "_build/install/default/lib/fplib/META"
+  "_build/install/default/lib/fplib/dune-package"
+  "_build/install/default/lib/fplib/opam"
+]
+bin: [
+  "_build/install/default/bin/fplib"
+]
+doc: [
+  "_build/install/default/doc/fplib/LICENSE"
+]

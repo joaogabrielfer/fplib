@@ -1,0 +1,4 @@
+(lang dune 3.24)
+(name fplib)
+(sections (lib .) (bin ../../bin) (doc ../../doc/fplib))
+(files (lib (META dune-package opam)) (bin (fplib)) (doc (LICENSE)))
