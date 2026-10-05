@@ -13,3 +13,7 @@
 (test
  (name test_functor_laws)
  (libraries fplib))
+
+(test
+ (name test_applicative_laws)
+ (libraries fplib))

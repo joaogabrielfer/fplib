@@ -5,9 +5,6 @@ module type S = sig
 end
 
 module Ops (F : S) = struct
-  let replace x fa =
-    F.map (fun _ -> x) fa
-
-  let void fa =
-    F.map (fun _ -> ()) fa
+  let replace x fa = F.map (fun _ -> x) fa
+  let void fa = F.map (fun _ -> ()) fa
 end
